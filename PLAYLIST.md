@@ -13,6 +13,16 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2021/02
 
+## Matheus Rocha Medeiros Zibordi
+
+- [Ela Só Quer Paz](https://www.youtube.com/watch?v=TgStRM60otc&ab_channel=ProjVEVO)
+- [Blake Shelton - Minimum Wage](https://www.youtube.com/watch?v=UQtiiDrL_O4&list=WL&index=14&ab_channel=BlakeShelton)
+- [Forever Country](https://www.youtube.com/watch?v=s9gAXwYZtfk&list=WL&index=13&ab_channel=CMAVEVO)
+- [Chris Stapleton - Millionaire](https://www.youtube.com/watch?v=QBKIgsVV0cU&list=WL&index=3&ab_channel=HelioMedeiros)
+- [Five Finger Death Punch - Wrong Side Of Heaven](https://www.youtube.com/watch?v=3TG8ypw1y9k&list=WL&index=12&ab_channel=EuLegendo)
+- [Charlie Brown Jr. - Só os Loucos Sabem](https://www.youtube.com/watch?v=JRJj4z-prvM&ab_channel=charliebrownjrVEVO)
+
+
 # 2021/01 (encerrado)
 
 ## Eduardo Spagna
